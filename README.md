@@ -1,2 +1,3 @@
-# mfti
+﻿# mfti
 Практика Python
+test commit.
